@@ -33,10 +33,6 @@ ul li a:hover{
     transition: 0.6s ease-in ;
 
 }
-div{
-  width: 100vw;
-  height: 100vh;
-}
 
 
 ul li.active a{
