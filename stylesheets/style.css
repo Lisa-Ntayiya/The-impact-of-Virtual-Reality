@@ -234,7 +234,4 @@ ul.breadcrumb li a:hover {
 .box .icon li a:hover{border-radius:0}
 .box .post{display:block;font-size:13px;color:rgb(255, 255, 255);margin-bottom:20px}
 @media only screen and (max-width:990px){.box{margin-bottom:20px}}
-div{
-  width: 100vw;
-  height: 100vh;
-}
+
