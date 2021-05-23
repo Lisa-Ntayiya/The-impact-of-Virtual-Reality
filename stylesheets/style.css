@@ -235,3 +235,4 @@ ul.breadcrumb li a:hover {
 .box .post{display:block;font-size:13px;color:rgb(255, 255, 255);margin-bottom:20px}
 @media only screen and (max-width:990px){.box{margin-bottom:20px}}
 
+body{width:90%;margin:auto;min-width:600px;max-width:2000px}
