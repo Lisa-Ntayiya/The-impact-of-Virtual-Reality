@@ -54,7 +54,4 @@
   from {transform: scale(0)}
   to {transform: scale(1)}
 }
-div{
-  width: 100vw;
-  height: 100vh;
-}
+
