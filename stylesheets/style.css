@@ -210,6 +210,9 @@ ul.breadcrumb li a:hover {
   top: 50%;
   background-color: rgba(0, 0, 0, 0.986);
   opacity: 0.8;
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: center;
 }
 .carousel-item h2
 {
